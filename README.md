@@ -3,8 +3,10 @@ A set of self-contained examples of winston logging formats.
 
 ## Running
 
-   yarn install
-   yarn log
+```bash
+yarn install
+yarn log
+```
 
 ## Usage
 
